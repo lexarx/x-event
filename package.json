@@ -1,0 +1,13 @@
+{
+	"name": "x-event",
+	"version": "1.0.0",
+	"description": "Event class (observer pattern).",
+	"keywords": [
+		"event", "observer"
+	],
+	"author": "Alexey Nichiporchik",
+	"bugs": "https://github.com/lexarx/x-event/issues",
+	"license": "MIT",
+	"main": "event.js",
+	"repository": "lexarx/x-event"
+}
